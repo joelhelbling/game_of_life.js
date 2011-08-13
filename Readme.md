@@ -1,9 +1,3 @@
-<h2>an h2</h2>
-
-<iframe src="http://yahoo.com" width="4" height="4">
-<p>no support for iframes here, yo.</p>
-</iframe>
-
 # GameOfLife (in JavaScript)
 
 I sat down with Rob Park (@robpark) and Joseph Leddy (@apprentice) 
