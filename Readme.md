@@ -1,3 +1,4 @@
+<h2>an h2</h2>
 
 # GameOfLife (in JavaScript)
 
