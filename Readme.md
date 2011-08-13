@@ -1,5 +1,9 @@
 <h2>an h2</h2>
 
+<script language="JavaScript">
+alert("this worked?!  Wah?");
+</script>
+
 # GameOfLife (in JavaScript)
 
 I sat down with Rob Park (@robpark) and Joseph Leddy (@apprentice) 
