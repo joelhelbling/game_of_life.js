@@ -1,8 +1,8 @@
 <h2>an h2</h2>
 
-<script language="JavaScript">
-alert("this worked?!  Wah?");
-</script>
+<iframe src="http://yahoo.com" width="4" height="4">
+<p>no support for iframes here, yo.</p>
+</iframe>
 
 # GameOfLife (in JavaScript)
 
